@@ -1,4 +1,4 @@
-# TV Series Rating Based on IMDb User Ratings
+# Plot TV Series Rating Based on IMDb User Ratings
 
 > Scatter plot a TV series listed within the *Internet Movie Database* (IMDb).
 
