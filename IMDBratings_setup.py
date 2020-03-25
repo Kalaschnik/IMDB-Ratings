@@ -23,7 +23,7 @@ if not os.path.exists(os.getcwd() + "//raw//" + "dataframe.csv"):
         "The script needs to download some IMDB data from the IMDB servers. \n"
         "Note: If you continue a folder 'raw' will be created (if there is none) within the location"
         " of this script file.\n"
-        "The download size will be approx 105mb. The final size on your hard drive—after removing unnecessary files—is approx. 26mb.\n"
+        "The download size will be approx 160mb. The final size on your hard drive—after removing unnecessary files—is approx. 26mb.\n"
         "Do you want to continue?"
     )
     cont = input("To abort use random key. To continue type 'Y': ").lower()
@@ -187,7 +187,7 @@ if not os.path.exists(os.getcwd() + "//raw//" + "dataframe.csv"):
         print(
             "Do you want to delete the raw files (*.tsv)?\n"
             "If you want to inspect them, they are in your raw folder.\n"
-            "Note: They take up approx. 480mb on your hard drive, and are not needed anymore."
+            "However, they take up approx. 700mb on your hard drive, and are not needed anymore."
         )
         remove_raw = input("Remove raw files? To remove them type 'Y': ").lower()
         if remove_raw == "y":
