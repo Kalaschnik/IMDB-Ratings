@@ -35,5 +35,5 @@ Run `python IMDBratings.py`. The CLI will guide you through the setup:
 
 ## About
 
-This project was part of the lecture *Introduction to Digital Humanities* during the term 2017/2018, held by Dr. Francesco Mambrini at Leipzig University. There is also a not so serious project report as [PDF](util/It's-in-the-Slope-Linear-Regression-of-IMDb-Series.pdf).
+This project was part of the lecture *Introduction to Digital Humanities* during the term 2017/2018, held by Dr. Francesco Mambrini (@francescomambrini) at Leipzig University. There is also a not so serious project report as [PDF](util/It's-in-the-Slope-Linear-Regression-of-IMDb-Series.pdf).
 
