@@ -2,6 +2,9 @@
 
 > Scatter plot a TV series listed within the *Internet Movie Database* (IMDb).
 
+## ℹ Note
+A more recent web app approach is offered by [ratingraph.com](https://www.ratingraph.com/tv-shows/).
+
 ## How-to
 
 Start by downloading the setup file `IMDBratings_setup.py` and the execution file `IMDBratings.py`. 
